@@ -7,7 +7,7 @@ Hello! Fred and JD here, we are really happy you have decided to join Simply Cod
 
 If you wish to add some new courses to the table, just open an issue with the information and we will take a look at it.
 
-| Syntax | Description |
+| Course | Path | Duration | Type | Price | Technologies | Link |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
