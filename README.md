@@ -8,6 +8,13 @@ Hello! Fred and JD here, we are really happy you have decided to join Simply Cod
 If you wish to add some new courses to the table, just open an issue with the information and we will take a look at it.
 
 | Course | Path | Duration | Type | Price | Technologies | Link |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header | Title | Header | Title | Header | Title | Yes |
-| Paragraph | Text | Header | Title | Header | Title | Yes |
+| ------ | ---- | -------- | ---- | ----- | ------------ | ---- |
+| CS50x | Computer Science | 9 Weeks | Self paced | Free | C, Python, Swift, React, HTML, JavaScript, Java, CSS, SQL, Flask, Django | [Link](https://cs50.harvard.edu/college/2022/spring/) |
+| CS50W | Computer Science | 9 Weeks | Self paced | Free | Title | [Link]() |
+| Header | Title | Header | Title | Header | Title | [Link]() |
+| Paragraph | Text | Header | Title | Header | Title | [Link]() |
+| Header | Title | Header | Title | Header | Title | [Link]() |
+| Paragraph | Text | Header | Title | Header | Title | [Link]() |
+| Header | Title | Header | Title | Header | Title | [Link]() |
+| Paragraph | Text | Header | Title | Header | Title | [Link]() |
+
