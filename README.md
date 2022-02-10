@@ -20,5 +20,5 @@ If you wish to add some new courses to the table, just open an issue with the in
 | Codewars | Coding exercises | As long as you want | Self Paced | Free | Most languages | [Open Codewars](https://www.codewars.com/) |
 | Git | Game | As long as you want | Self Paced | Free | Git | [Open](https://ohmygit.org/) |
 | Vim | Game | 30min | Self Paced | Free | Vim | [Open](https://vim-adventures.com/) |
-| Postman - Intro to API's (without coding) | API | 1 hour | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/projects/laura-gemmell-intro-postman-apis)
-| Developing APIs with Google Cloud's Apigee API Platform Specialization | API | Approximate 2 months (5 hours a week) | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/specializations/apigee-api-gcp#courses)
+| Postman - Intro to API's (without coding) | API | 1 hour | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/projects/laura-gemmell-intro-postman-apis) |
+| Developing APIs with Google Cloud's Apigee API Platform Specialization | API | Approximate 2 months (5 hours a week) | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/specializations/apigee-api-gcp#courses) |
