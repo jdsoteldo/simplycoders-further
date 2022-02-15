@@ -22,3 +22,4 @@ If you wish to add some new courses to the table, just open an issue with the in
 | Vim | Game | 30min | Self Paced | Free | Vim | [Open](https://vim-adventures.com/) |
 | Postman - Intro to API's (without coding) | API | 1 hour | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/projects/laura-gemmell-intro-postman-apis) |
 | Developing APIs with Google Cloud's Apigee API Platform Specialization | API | Approximate 2 months (5 hours a week) | Self Paced | Coursera subscription | N/A | [Open on Coursera](https://www.coursera.org/specializations/apigee-api-gcp#courses) |
+| The Odin Project | Computer Science / Coding exercises | Modular Course | Self paced | Free | Ruby / JS | [Open Odin Project](https://www.theodinproject.com/) |
