@@ -10,6 +10,7 @@ If you wish to add some new courses to the table, just open an issue with the in
 
 | Course | Path | Duration | Type | Price | Technologies | Link |
 | ------ | ---- | -------- | ---- | ----- | ------------ | ---- |
+| freeCodeCamp | Coding exercises | Modular Course | Self paced | Free | HTML, CSS, JavaScript, Python (including backend and frontend libraries and frameworks) | [freeCodeCamp](https://www.freecodecamp.com/) |
 | CS50x | Computer Science | 9 Weeks | Self paced | Free | C, Python, Swift, React, HTML, JavaScript, Java, CSS, SQL, Flask, Django | [Open](https://cs50.harvard.edu/college/2022/spring/) |
 | CS50W | Computer Science | 9 Weeks | Self paced | Free | Python, JavaScript, CSS, SQL, React, Bootstrap, Flask, Django | [Open](https://cs50.harvard.edu/web/2020/) |
 | Python for Everybody (collection) | Computer Science | 5 Courses | Self paced | Coursera subscription |  | [Open on Coursera](https://www.coursera.org/specializations/python?utm_source=gg&utm_medium=sem&utm_campaign=06-PythonforEverybody-US&utm_content=B2C&campaignid=300366907&adgroupid=77268136997&device=c&keyword=programming%20in%20python&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=453083046369&hide_mobile_promo&gclid=CjwKCAiAl-6PBhBCEiwAc2GOVL6Hrg9p0P7wdEAsUQ247S5lNEfpjak0iHI85EUpK50Ag1UzI4oo6BoCfCQQAvD_BwE) |
