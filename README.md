@@ -27,6 +27,5 @@ If you wish to add some new courses to the table, just open an issue with the in
 | The Odin Project | Computer Science / Coding exercises | Modular Course | Self paced | Free | Ruby / JS | [Open Odin Project](https://www.theodinproject.com/) |
 
 When coding you may need to have a text editor for you to write, edit, store and share your code, there is no such thing as "the best text editor" it all comes down to preference, so here is a list of some text editors:
-- [Atom](https://atom.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Sublime](https://www.sublimetext.com/)
